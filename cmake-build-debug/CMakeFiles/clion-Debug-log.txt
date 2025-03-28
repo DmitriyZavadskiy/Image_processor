@@ -1,0 +1,6 @@
+/home/user/.cache/JetBrains/RemoteDev/dist/7e91c9460ef4d_CLion-251.23774.202/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/user/.cache/JetBrains/RemoteDev/dist/7e91c9460ef4d_CLion-251.23774.202/bin/ninja/linux/x64/ninja -G Ninja -S /home/user/.ssh/ami-Dmitrii-Zavadskii-swarovskimisha/.git/ami-Dmitrii-Zavadskii-swarovskimisha/tasks/image_processor -B /home/user/.ssh/ami-Dmitrii-Zavadskii-swarovskimisha/.git/ami-Dmitrii-Zavadskii-swarovskimisha/tasks/image_processor/cmake-build-debug
+CMake Error at tests/CMakeLists.txt:1 (add_catch):
+  Unknown CMake command "add_catch".
+
+
+-- Configuring incomplete, errors occurred!

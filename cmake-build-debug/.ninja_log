@@ -1,0 +1,18 @@
+# ninja log v6
+89	1163	7647318096894452	src/CMakeFiles/imageproc_lib.dir/filters/crop.cpp.obj	6e0f9ce89669d7d2
+50	974	7647318096505413	src/CMakeFiles/imageproc_lib.dir/args/args.cpp.obj	554e174efa468b2f
+64	1196	7647318096635538	src/CMakeFiles/imageproc_lib.dir/bmp/loader.cpp.obj	a791fab9ea93024f
+133	1154	7647318097331730	src/CMakeFiles/imageproc_lib.dir/filters/sharpen.cpp.obj	fd0971506e92d8eb
+1171	1416	7647324132306958	src/libimageproc_lib.a	4a670e6b18808d08
+12	1171	7647324120709300	src/CMakeFiles/imageproc_lib.dir/filters/registry.cpp.obj	849e0dd8f3ebab58
+122	868	7647318097221767	src/CMakeFiles/imageproc_lib.dir/filters/neg.cpp.obj	2afda418b3d72f4d
+78	1202	7647318096784470	src/CMakeFiles/imageproc_lib.dir/filters/blur.cpp.obj	4e5ead117cea7a84
+109	836	7647318097090616	src/CMakeFiles/imageproc_lib.dir/filters/grayscale.cpp.obj	960cc60355af3588
+144	850	7647318097441725	src/CMakeFiles/imageproc_lib.dir/image/image.cpp.obj	14d6ff9b8e84ec5c
+115	1206	7647318097151777	src/CMakeFiles/imageproc_lib.dir/filters/matrix_filter.cpp.obj	9f90b84d4c923e3b
+99	925	7647318096993327	src/CMakeFiles/imageproc_lib.dir/filters/edge.cpp.obj	12718ebd8235ecc5
+138	236	7647318097381738	src/CMakeFiles/imageproc_lib.dir/image/color.cpp.obj	f31d8358a1e01f23
+57	1199	7647318096575350	src/CMakeFiles/imageproc_lib.dir/bmp/dumper.cpp.obj	c840c777d1597f73
+3	409	1743195988339230525	build.ninja	e8499474f3bfd61b
+71	1145	7647318096715051	src/CMakeFiles/imageproc_lib.dir/filters/affine_tile.cpp.obj	9f26738e9d7948bf
+1416	1780	7647324134747227	image_processor.exe	9b93bfd115ecbdcf

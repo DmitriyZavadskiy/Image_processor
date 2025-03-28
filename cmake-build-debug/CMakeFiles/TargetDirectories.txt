@@ -1,0 +1,3 @@
+/home/user/.ssh/ami-Dmitrii-Zavadskii-swarovskimisha/.git/ami-Dmitrii-Zavadskii-swarovskimisha/tasks/image_processor/cmake-build-debug/CMakeFiles/image_processor.dir
+/home/user/.ssh/ami-Dmitrii-Zavadskii-swarovskimisha/.git/ami-Dmitrii-Zavadskii-swarovskimisha/tasks/image_processor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user/.ssh/ami-Dmitrii-Zavadskii-swarovskimisha/.git/ami-Dmitrii-Zavadskii-swarovskimisha/tasks/image_processor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
